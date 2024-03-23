@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "61df88dc-cce5-438f-acae-c009d5bdf9ca",
+    "content-length": "189",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a beach with a body of water and mountains in the background",
+      "confidence": 0.6961612105369568
+    },
+    "metadata": {
+      "width": 4000,
+      "height": 3000
+    }
+  }
